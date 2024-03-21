@@ -11,5 +11,3 @@ More project info, Read this article: [👨🏼‍🦯Obstacle Detection for Bli
 # 🚀YOLOv5 is my final model
 
 Please focus on yolov5-streamlit directory.
-# yolo5
-# yolo5
